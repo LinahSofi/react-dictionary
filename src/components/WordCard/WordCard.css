@@ -1,0 +1,17 @@
+.word-card {
+    background-color: #fff8dc;
+    padding: 16px;
+    margin: 12px;
+    border-radius: 8px;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+  .word-card:hover {
+    transform: scale(1.02);
+  }
+  .card-front {
+    font-weight: bold;
+    font-size: 1.25rem;
+  }
