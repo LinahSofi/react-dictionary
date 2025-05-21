@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-dictionary/static/css/main.439ca9e1.css",
+    "main.js": "/react-dictionary/static/js/main.176bf2be.js",
+    "static/js/453.4e1fb39d.chunk.js": "/react-dictionary/static/js/453.4e1fb39d.chunk.js",
+    "index.html": "/react-dictionary/index.html",
+    "main.439ca9e1.css.map": "/react-dictionary/static/css/main.439ca9e1.css.map",
+    "main.176bf2be.js.map": "/react-dictionary/static/js/main.176bf2be.js.map",
+    "453.4e1fb39d.chunk.js.map": "/react-dictionary/static/js/453.4e1fb39d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.439ca9e1.css",
+    "static/js/main.176bf2be.js"
+  ]
+}
